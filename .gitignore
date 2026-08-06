@@ -110,8 +110,5 @@ x86/
 # Publish Web Output
 *.[Pp]ublish.xml
 */DerivedDataCache
-*/Saved
 */Intermediate
-OnlineLearningKit_Import/OnlineLearningKit/DerivedDataCache
-OnlineLearningKit_Import/OnlineLearningKit/Intermediate
-OnlineLearningKit_Import/OnlineLearningKit/Saved
+*/Saved
